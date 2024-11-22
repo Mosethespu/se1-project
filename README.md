@@ -1,3 +1,4 @@
+#se1-project
 Maelezo University Tuckshop
 Maelezo University Tuckshop is a Python-based application designed to facilitate the management and operation of a university tuckshop. Built using the Toga library, it integrates seamlessly with Firebase for backend services such as authentication and data storage.
 
